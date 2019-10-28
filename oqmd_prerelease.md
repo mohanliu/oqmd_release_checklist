@@ -25,7 +25,7 @@ TODO
    cryptic and nearly useless description on the webpage (take a look at any of
    the papers from the group that uses/describes GCLP)? Also format the two
    references properly, provide links, etc.
-7. - [ ] @[Abi](https://github.com/tachyontraveler) The phase diagrams page (http://oqmd.org:8080/analysis/phase_diagram). Same
+7. - [ ] @[Jiahong](https://github.com/WalterjhShen) The phase diagrams page (http://oqmd.org:8080/analysis/phase_diagram). Same
    comment as for GCLP above. Both for this page and the GCLP page, we need to
    give users information that helps them use the page/tools correctly. We can
    remove the FERE reference, formation energy information (or at least move it
