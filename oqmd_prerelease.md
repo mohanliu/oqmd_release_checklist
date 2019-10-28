@@ -92,7 +92,7 @@ TODO
       that users are clicking and navigating to the Entry/Calculation/etc. and
       not the space group or something, but this tiny entry ID being the only
       clickable column is very annoying.
-15. - [ ] @[Mohan](https://github.com/mohanliu) The calculation page (e.g.
+15. - [x] @[Mohan](https://github.com/mohanliu) The calculation page (e.g.
     http://oqmd.org:8080/analysis/calculation/2901446): can we have the default
     x-axis range for the DOS plot to be [-5, 5] or [-6, 6]?
 16. - [ ] @[Abi](https://github.com/tachyontraveler) May be add a few questions to the FAQ? Such as ``how can find the reference
