@@ -60,7 +60,7 @@ TODO
     documentation as well but we can do it incrementally (i.e. those other
     changes need not be the limiting factor blocking this release).
 13. The composition page (e.g. http://oqmd.org:8080/materials/composition/SiC):
-    - [ ] @[Jiahong](https://github.com/WalterjhShen)rows can be: ``Ground state phase(s)``, ``Hull energy`` (not \Delta H!),
+    - [ ] @[Jiahong](https://github.com/WalterjhShen) rows can be: ``Ground state phase(s)``, ``Hull energy`` (not \Delta H!),
       ``Decomposition energy``, ``Competing phases``, ``Experimental formation
       energy``. Please iterate with others in the group + Chris
     - [ ] @[Abi](https://github.com/tachyontraveler) remove background highlight for ``Stable Phase`` (and correspondingly for
