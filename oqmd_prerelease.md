@@ -21,7 +21,7 @@ TODO
    description of where the link will take them.
 5. - [ ] @[Abi](https://github.com/tachyontraveler) Whatever link descriptions we choose to go with in 3./4. above, we can also
    use on this page: http://oqmd.org:8080/materials/
-6. The GCLP page (http://oqmd.org:8080/analysis/gclp/): can we update the
+6. - [ ] @[Jiahong](https://github.com/WalterjhShen) The GCLP page (http://oqmd.org:8080/analysis/gclp/): can we update the
    cryptic and nearly useless description on the webpage (take a look at any of
    the papers from the group that uses/describes GCLP)? Also format the two
    references properly, provide links, etc.
@@ -63,12 +63,12 @@ TODO
     - [ ] @[Jiahong](https://github.com/WalterjhShen)rows can be: ``Ground state phase(s)``, ``Hull energy`` (not \Delta H!),
       ``Decomposition energy``, ``Competing phases``, ``Experimental formation
       energy``. Please iterate with others in the group + Chris
-    - remove background highlight for ``Stable Phase`` (and correspondingly for
+    - [ ] @[Abi](https://github.com/tachyontraveler) remove background highlight for ``Stable Phase`` (and correspondingly for
       ``Unstable Phase``, like Eric mentioned on the Slack channel). We need not
       emphasize either stable or unstable phases. That's why I said, remove
       background highlight, and if you really want to have color, just change
       the font color.)
-    - [ ] @[Jiahong](https://github.com/WalterjhShen)I like the "?" for hull distance (the schematic that pops up; I don't like
+    - [ ] @[Jiahong](https://github.com/WalterjhShen) I like the "?" for hull distance (the schematic that pops up; I don't like
       pop ups in general and don't understand why it cannot be just a page under
       ``Calculation details``), but the schematic needs quite a bit of
       improvement to be clearer/less confusing. E.g. What is E_f, and what is
