@@ -79,7 +79,7 @@ TODO
       this with Eric/Chris/others in the group to finalize. (And feel free to
       ping me on Slack. I don't want to plug my own paper but see Page 5 here
       https://arxiv.org/pdf/1610.02444.pdf for the terminology/symbols.)
-    - [ ] @[Abi](https://github.com/tachyontraveler) why are entire rows not clickable anymore? only the ``ID`` column being
+    - [ ] @[Mohan](https://github.com/mohanliu)@[Abi](https://github.com/tachyontraveler) why are entire rows not clickable anymore? only the ``ID`` column being
       clickable is really cumbersome, please change it back.
 14. The entry page (e.g. http://oqmd.org:8080/materials/entry/1239872):
     - [ ] @[Mohan](https://github.com/mohanliu) can we have similar data as the composition page, i.e. the hull distance,
@@ -87,7 +87,7 @@ TODO
     - [ ] @[Mohan](https://github.com/mohanliu) can we go back to having just the ``static`` or ``standard`` calculation
       showing up in the ``Calculations`` table and have an optional
       ``Calculation History`` table that users can click to unravel?
-    - [ ] @[Abi](https://github.com/tachyontraveler) same comment about table rows not being clickable? why?! please change it
+    - [ ] @[Mohan](https://github.com/mohanliu)@[Abi](https://github.com/tachyontraveler) same comment about table rows not being clickable? why?! please change it
       back so that the entire row is clickable. (I think) you want to convey
       that users are clicking and navigating to the Entry/Calculation/etc. and
       not the space group or something, but this tiny entry ID being the only
