@@ -98,4 +98,4 @@ TODO
 16. - [ ] @[Abi](https://github.com/tachyontraveler) May be add a few questions to the FAQ? Such as ``how can find the reference
     for the experimental formation energy for compound XYZ?``, ``This compound
     is in the ICSD but OQMD says it is unstable``, and so on.
-
+17. - [ ] @[Mohan](https://github.com/mohanliu) materials properties page error message once an inapproperiate manual_filters is entered by user
