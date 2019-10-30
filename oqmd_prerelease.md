@@ -13,13 +13,13 @@ TODO
    accurate. The second link, I'd say, is to ``filter/screen`` materials based
    on some property. The first link can also be used to search for entire phase
    diagrams. This can be discussed with the rest of the group + Chris.
-3. - [ ] @[Abi](https://github.com/tachyontraveler) Adding to my note above, the GCLP shortcut needs to have ``GCLP`` somewhere
+3. - [x] @[Abi](https://github.com/tachyontraveler) Adding to my note above, the GCLP shortcut needs to have ``GCLP`` somewhere
    in the description. And API needs to be ``REST API`` or ``RESTful API``.
-4. - [ ] @[Abi](https://github.com/tachyontraveler) Last thing about the shortcuts on the home page (I'm being annoying about the
+4. - [x] @[Abi](https://github.com/tachyontraveler) Last thing about the shortcuts on the home page (I'm being annoying about the
    home page because it is the HOME page; everyone who visits OQMD will visit
    it): we need to have mouse over for the shortcut links that have a one-line
    description of where the link will take them.
-5. - [ ] @[Abi](https://github.com/tachyontraveler) Whatever link descriptions we choose to go with in 3./4. above, we can also
+5. - [x] @[Abi](https://github.com/tachyontraveler) Whatever link descriptions we choose to go with in 3./4. above, we can also
    use on this page: http://oqmd.org:8080/materials/
 6. - [ ] @[Jiahong](https://github.com/WalterjhShen) The GCLP page (http://oqmd.org:8080/analysis/gclp/): can we update the
    cryptic and nearly useless description on the webpage (take a look at any of
@@ -50,10 +50,10 @@ TODO
     For example, see the Materials Project API landing page:
     https://materialsproject.org/open. This should be true for both OQMD API and
     Optimade API.
-11. - [ ] @[Abi](https://github.com/tachyontraveler) The documentation here (http://oqmd.org:8080/static/docs/restful.html) does
+11. - [x] @[Abi](https://github.com/tachyontraveler) The documentation here (http://oqmd.org:8080/static/docs/restful.html) does
     not explain the difference between the two REST APIs. Can we separate the
     two in the documentation in a way that makes sense please?
-12. - [ ] @[Abi](https://github.com/tachyontraveler) The "installation" step in the qmpy docs
+12. - [x] @[Abi](https://github.com/tachyontraveler) The "installation" step in the qmpy docs
     (http://oqmd.org:8080/static/docs/index.html) need updating. We should be
     recommending users to use ``(mini)conda`` for setting up and using qmpy for
     a uniform experience. There is a lot to change in the rest of the
