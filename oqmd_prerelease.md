@@ -7,7 +7,7 @@ TODO
 1. - [ ] @[Mohan](https://github.com/mohanliu) The 3d phase diagram on the home page: can we use Helvetica? And may be place
    the labels so that they don't overlap with the phases (just add a +dx, +dy to
    the coordinates of the text)
-2. - [ ] @[Jiahong](https://github.com/WalterjhShen) Some of the shortcut labels on the home page are not very helpful: e.g. the
+2. - [x] @[Jiahong](https://github.com/WalterjhShen) Some of the shortcut labels on the home page are not very helpful: e.g. the
    difference between ``Search Materials Phases`` and ``Browse Material
    Properties`` are not clear.  In fact, I'm not even sure that the labels are
    accurate. The second link, I'd say, is to ``filter/screen`` materials based
