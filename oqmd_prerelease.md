@@ -68,7 +68,7 @@ TODO
       emphasize either stable or unstable phases. That's why I said, remove
       background highlight, and if you really want to have color, just change
       the font color.)
-    - [ ] @[Jiahong](https://github.com/WalterjhShen) I like the "?" for hull distance (the schematic that pops up; I don't like
+    - [x] @[Jiahong](https://github.com/WalterjhShen) I like the "?" for hull distance (the schematic that pops up; I don't like
       pop ups in general and don't understand why it cannot be just a page under
       ``Calculation details``), but the schematic needs quite a bit of
       improvement to be clearer/less confusing. E.g. What is E_f, and what is
